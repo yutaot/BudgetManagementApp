@@ -1,0 +1,5 @@
+pizza 2.2575635337 food
+apple 1.5050423558 food
+chair 11.287817668499999 housing
+pizza 7.525211778999999 food
+water 100.0 utilities
